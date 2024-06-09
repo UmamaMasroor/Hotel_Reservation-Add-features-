@@ -1,0 +1,17 @@
+First Name: umama
+Last Name: ali
+Email: ali@gmail.com
+Phone: 3456788765
+Address: fghh
+Number of Guests: 3
+ID Number: 56
+Room Type: Double Room
+Number of Beds: 2
+Services: Room Service, Laundry Service, Airport Transfer
+Facilities: WiFi, Food
+Payment Method: Cash
+Check-in Date: 2024-06-09
+Check-out Date: 2024-06-11
+Total Cost: PKR37010.00
+Reservation Number: 1
+

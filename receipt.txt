@@ -1,0 +1,12 @@
+Hotel Reservation Receipt
+Reservation Number: 1
+First Name: umama
+Last Name: ali
+Email: ali@gmail.com
+Number of Guests: 3
+ID Number: 56
+Room Type: Double Room
+Payment Method: Cash
+Check-in Date: 2024-06-09
+Check-out Date: 2024-06-11
+Total Cost: PKR37010.00
